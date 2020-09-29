@@ -2127,6 +2127,17 @@ FROM
 				<reportElement positionType="Float" x="870" y="300" width="130" height="20" uuid="c2fa408e-4487-4050-8b23-ca28a0164693"/>
 				<textFieldExpression><![CDATA[" "]]></textFieldExpression>
 			</textField>
+			<textField>
+				<reportElement positionType="Float" x="0" y="540" width="80" height="20" uuid="02c64461-7b54-49ad-a516-f359db8f4c77"/>
+				<box>
+					<pen lineWidth="0.5"/>
+					<topPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<leftPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<bottomPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+					<rightPen lineWidth="0.0" lineStyle="Solid" lineColor="#000000"/>
+				</box>
+				<textFieldExpression><![CDATA[" "]]></textFieldExpression>
+			</textField>
 		</band>
 		<band height="360">
 			<staticText>
